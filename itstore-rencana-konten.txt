@@ -9,4 +9,5 @@ RENCANA KONTEN ITSTORE
 -Design UI/UX
 -Logo Selling
 -Templating PHP
+  *Laravel 8
 -Blogs Templating Modern
