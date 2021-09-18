@@ -2,5 +2,5 @@ ITSTORE RESOLUSI
 1. Membangun sebuah wadah atau tempat untuk para penjual templates
 2. Membuat MARKET PLACE modern
 3. Safe
-4. Membuat Tampilan yang nyaman.
-5. Kolaborasi dengan Vendor lain.
+4. Kolaborasi dengan Vendor lain.
+5. Animasi yang membuat nyaman
