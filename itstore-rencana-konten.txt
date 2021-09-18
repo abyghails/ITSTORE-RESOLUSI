@@ -3,7 +3,9 @@ RENCANA KONTEN ITSTORE
 -Tempating Website
   *HTML Layouts
   *CSS Responsive
+  *Bootstrap Responsive
 -Jasa Pembuatan Content
--Templating Figma Design
 -Design UI/UX
 -Logo Selling
+-Templating PHP
+  *Laravel
