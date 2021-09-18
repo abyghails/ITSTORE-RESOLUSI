@@ -4,5 +4,6 @@ RENCANA KONTEN ITSTORE
   *HTML Layouts
   *CSS Responsive
 -Jasa Pembuatan Content
+-Templating Figma Design
 -Design UI/UX
 -Logo Selling
